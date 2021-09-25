@@ -5,6 +5,21 @@
 #作者：Dark-Athena
 #email ：darkathena@qq.com
 #说明：自动从备选ip清单中寻找最低延时IP，设置到本地host中，需要使用管理员权限运行
+"""
+Copyright DarkAthena
+
+   Licensed under the Apache License, Version 2.0 (the "License");
+   you may not use this file except in compliance with the License.
+   You may obtain a copy of the License at
+
+       http://www.apache.org/licenses/LICENSE-2.0
+
+   Unless required by applicable law or agreed to in writing, software
+   distributed under the License is distributed on an "AS IS" BASIS,
+   WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
+   See the License for the specific language governing permissions and
+   limitations under the License.
+"""
 import ping3
 
 iplist=list((
