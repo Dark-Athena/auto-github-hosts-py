@@ -6,7 +6,7 @@
 #email ：darkathena@qq.com
 #说明：自动从备选ip清单中寻找最低延时IP，设置到本地host中，需要使用管理员权限运行
 """
-Copyright DarkAthena
+Copyright DarkAthena(darkathena@qq.com)
 
    Licensed under the Apache License, Version 2.0 (the "License");
    you may not use this file except in compliance with the License.
